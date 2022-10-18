@@ -1,1 +1,0 @@
-export { default as WeatherBody } from "./WeatherBody/WeatherBody"
