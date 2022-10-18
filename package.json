@@ -1,5 +1,6 @@
 {
   "name": "weather_api_react",
+  "homepage": "https://kemptonb.github.io/weather_api_react/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
